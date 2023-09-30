@@ -8,7 +8,7 @@ Nesta aula abordamos assuntos relacionados a variáveis e condicionais na lingua
 
 # 📋Pré-requisitos do sistema:
 
-> Utilizze Python Versão 3.10
+> Utilize Python Versão 3.10
 > 
 
 ## 🛠️Tecnologias utilizadas:
